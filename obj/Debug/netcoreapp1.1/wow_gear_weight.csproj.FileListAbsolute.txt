@@ -1,0 +1,8 @@
+/var/www/wow_gear_weight/bin/Debug/netcoreapp1.1/wow_gear_weight.deps.json
+/var/www/wow_gear_weight/bin/Debug/netcoreapp1.1/wow_gear_weight.runtimeconfig.json
+/var/www/wow_gear_weight/bin/Debug/netcoreapp1.1/wow_gear_weight.runtimeconfig.dev.json
+/var/www/wow_gear_weight/bin/Debug/netcoreapp1.1/wow_gear_weight.dll
+/var/www/wow_gear_weight/bin/Debug/netcoreapp1.1/wow_gear_weight.pdb
+/var/www/wow_gear_weight/obj/Debug/netcoreapp1.1/wow_gear_weight.AssemblyInfo.cs
+/var/www/wow_gear_weight/obj/Debug/netcoreapp1.1/wow_gear_weight.dll
+/var/www/wow_gear_weight/obj/Debug/netcoreapp1.1/wow_gear_weight.pdb
